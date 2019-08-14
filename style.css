@@ -1,0 +1,19 @@
+table {
+  margin: auto;
+}
+
+td {
+	border: 1px solid black;
+	text-align: center;
+	height: 40px;
+	width: 40px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.container, .row, .col {
+	margin: auto;
+	padding: 10px;
+}
