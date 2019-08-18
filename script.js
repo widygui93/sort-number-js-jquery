@@ -1,4 +1,5 @@
 $(document).ready(function(){
+	$("#centralizeButton").addClass("text-center");
 	//create table
 	$("h1").after($("<table></table>"));
 	//create row and column with looping
